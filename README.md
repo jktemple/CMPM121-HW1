@@ -1,5 +1,8 @@
-# CMPM121-HW1
+# CMPM121-HW2
 
+The main branch of this repo contains CMPM121 HW2 the HW1 Branch contains my HW1 Submission
+
+HW1 Legacy Readme:
 My scene is a futuristic city street inspired by classic cyberpunk media like Bladerunner.
 I used a few different buildings, including a food cart along with some modular road peices and
 primativates. I also included some props like some plastic road barriers and a cyberpunk car.
